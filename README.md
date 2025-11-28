@@ -13,13 +13,14 @@ A real-time face detection and recognition system built using Python, OpenCV, an
 
 </div>
 
-🚀 Features
-•	Real-time face detection using Haar Cascade Classifiers
-•	Face recognition using LBPH (Local Binary Patterns Histogram)
-•	Data collection system for capturing face images
-•	Model training module that generates classifier.yml
-•	Lightweight, fast, and works on any webcam
-•	Easy to extend for multiple users
+## 🚀 Features
+- Real-time face detection using Haar Cascade Classifiers  
+- Face recognition using LBPH (Local Binary Patterns Histogram)  
+- Data collection system for capturing face images  
+- Model training module that generates classifier.yml  
+- Lightweight, fast, and works on any webcam  
+- Easy to extend for multiple users  
+
 
 
 📂 Project Structure

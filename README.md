@@ -77,8 +77,8 @@ Your webcam will open, and recognized faces will be labeled in real time.
 📘 File Descriptions
 
 
-•	```Data_Generator.py```: Captures and saves face images from a webcam for training.
-•	```Classifier.py```: Trains the face recognizer on the saved images and creates classifier.yml. 
+•	```Data_Generator.py```: Captures and saves face images from a webcam for training.  
+•	```Classifier.py```: Trains the face recognizer on the saved images and creates classifier.yml.   
 •	```Recognize.py```: Uses the webcam and the trained classifier.yml to perform real-time face recognition.  
 •	```haarcascade_*.xml```: Pre-trained models from OpenCV used for detecting objects like faces and eyes.
 

@@ -2,6 +2,17 @@ Real-Time Face Recognition using OpenCV
 
 A real-time face detection and recognition system built using Python, OpenCV, and the LBPH Face Recognizer. This project captures face data, trains a recognition model, and performs live recognition using a webcam.
 
+<div align="center">
+
+
+
+
+
+
+
+
+</div>
+
 🚀 Features
 •	Real-time face detection using Haar Cascade Classifiers
 •	Face recognition using LBPH (Local Binary Patterns Histogram)

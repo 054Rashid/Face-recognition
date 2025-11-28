@@ -25,7 +25,7 @@ A real-time face detection and recognition system built using Python, OpenCV, an
 
 📂 Project Structure
 
-Face-Recognition-Project/
+## Face-Recognition-Project/
 │
 ├── data/                 # Stores captured face images
 ├── classifier.yml        # Generated trained model (after Step 2)

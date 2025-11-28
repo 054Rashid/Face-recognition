@@ -25,15 +25,17 @@ A real-time face detection and recognition system built using Python, OpenCV, an
 
 📂 Project Structure
 
-## Face-Recognition-Project/
+```
+Face-Recognition-Project/
 │
-├── data/                 # Stores captured face images
-├── classifier.yml        # Generated trained model (after Step 2)
-├── Data_Generator.py     # Capture face images using webcam
-├── Classifier.py         # Train LBPH model
-├── Recognize.py          # Real-time recognition script
+├── data/ # Stores captured face images
+├── classifier.yml # Generated trained model (after Step 2)
+├── Data_Generator.py # Capture face images using webcam
+├── Classifier.py # Train LBPH model
+├── Recognize.py # Real-time recognition script
 ├── haarcascade_frontalface_default.xml
 └── README.md
+```
 
 🛠️ Requirements
 Install the required Python libraries:

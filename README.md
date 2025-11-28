@@ -28,11 +28,11 @@ A real-time face detection and recognition system built using Python, OpenCV, an
 ```
 Face-Recognition-Project/
 │
-├── data/ # Stores captured face images
-├── classifier.yml # Generated trained model (after Step 2)
-├── Data_Generator.py # Capture face images using webcam
-├── Classifier.py # Train LBPH model
-├── Recognize.py # Real-time recognition script
+├── data/                 # Stores captured face images
+├── classifier.yml        # Generated trained model (after Step 2)
+├── Data_Generator.py     # Capture face images using webcam
+├── Classifier.py         # Train LBPH model
+├── Recognize.py          # Real-time recognition script
 ├── haarcascade_frontalface_default.xml
 └── README.md
 ```
@@ -77,10 +77,10 @@ Your webcam will open, and recognized faces will be labeled in real time.
 📘 File Descriptions
 
 
-•	Data_Generator.py: Captures and saves face images from a webcam for training.
-•	Classifier.py: Trains the face recognizer on the saved images and creates classifier.yml.
-•	Recognize.py: Uses the webcam and the trained classifier.yml to perform real-time face recognition.
-•	haarcascade_*.xml: Pre-trained models from OpenCV used for detecting objects like faces and eyes.
+•	```Data_Generator.py```: Captures and saves face images from a webcam for training.
+•	```Classifier.py```: Trains the face recognizer on the saved images and creates classifier.yml.
+•	```Recognize.py```: Uses the webcam and the trained classifier.yml to perform real-time face recognition.
+•	```haarcascade_*.xml```: Pre-trained models from OpenCV used for detecting objects like faces and eyes.
 
 
 

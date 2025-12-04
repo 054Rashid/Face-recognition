@@ -23,7 +23,7 @@ A real-time face detection and recognition system built using Python, OpenCV, an
 
 
 
-📂 Project Structure
+## 📂 Project Structure
 
 ```
 Face-Recognition-Project/
@@ -75,7 +75,7 @@ python Recognize.py
 ```
 Your webcam will open, and recognized faces will be labeled in real time.
 
-📘 File Descriptions
+## 📘 File Descriptions
 
 
 •	```Data_Generator.py```: Captures and saves face images from a webcam for training.  

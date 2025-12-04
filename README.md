@@ -46,20 +46,11 @@ pip install opencv-contrib-python numpy pillow
 ## 🧪 How to Run
 
 Follow these steps in order:
-<div align="center">
 
-
-
-
-
-
-
-
-</div>
 Step 1: Generate Face Data
-  .	Open Data_Generator.py
-  .	Set a unique user_id for each person
-  .	Run the script to capture 100 face images using your webcam
+-	Open Data_Generator.py
+- Set a unique user_id for each person
+-	Run the script to capture 100 face images using your webcam
 
 
 ```

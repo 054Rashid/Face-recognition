@@ -41,19 +41,18 @@ Face-Recognition-Project/
 Install the required Python libraries:
 ```
 pip install opencv-contrib-python numpy pillow
-
 ```
-🧪 How to Run
+
+## 🧪 How to Run
 
 Follow these steps in order:
 
-```
 Step 1: Generate Face Data
   .	Open Data_Generator.py
   .	Set a unique user_id for each person
   .	Run the script to capture 100 face images using your webcam
 
-```
+
 ```
 python Data_Generator.py
 
